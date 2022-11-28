@@ -9,7 +9,7 @@ El programa funciona identificando los cuadrilateros y cuanta area de su superfi
 
 ## Requisitos
 
--Python 3
+- Python 3
 
 ## Licencia
 
